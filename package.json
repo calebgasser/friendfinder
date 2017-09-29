@@ -1,0 +1,23 @@
+{
+  "name": "friendfinder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/calebgasser/friendfinder.git"
+  },
+  "author": "Caleb Gasser",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/calebgasser/friendfinder/issues"
+  },
+  "homepage": "https://github.com/calebgasser/friendfinder#readme",
+  "dependencies": {
+    "body-parser": "^1.18.1",
+    "express": "^4.15.4"
+  }
+}

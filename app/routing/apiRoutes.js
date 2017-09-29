@@ -10,7 +10,7 @@ module.exports = (app)=>{
         let currentPerson = request.body;
         let bestMatch = {
             index: null,
-            score: 100,
+            score: 1000,
         }
         for(person in data){
             let score  = 0;
